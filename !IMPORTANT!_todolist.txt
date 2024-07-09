@@ -1,0 +1,8 @@
+# TO DO LIST
+
+1- new levels will be added
+2- game save system will be added
+3- The ability to hit the main character with a stick will be added
+4- menu will be developed
+5-Large monsters will be added to the islands and the ability to hit them will be added
+6- Market system will be added
